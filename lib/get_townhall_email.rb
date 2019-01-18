@@ -41,4 +41,4 @@ def get_townhall_email(townhall_url)
    
 end
 
-get_townhall_email("http://annuaire-des-mairies.com/val-d-oise.html")
+#get_townhall_email("http://annuaire-des-mairies.com/val-d-oise.html")
